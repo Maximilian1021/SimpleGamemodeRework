@@ -1,0 +1,11 @@
+name: SimpleGamemode
+version: ${project.version}
+main: me.maximilian1021.main.SimpleGamemodeRework
+api-version: 1.16
+authors: [ Maximilian1021 ]
+description: Ein Plugin um den Gamemode einfacher zu wechseln
+website: https://max1021.de
+
+commands:
+  gm:
+    description: Ändere ganz einfach dein Gamemode
